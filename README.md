@@ -1,4 +1,4 @@
-# i-created-changed-minecraft-server
+# i created changed minecraft server
 minecraft changed server
 
 name: minecraft changed      
